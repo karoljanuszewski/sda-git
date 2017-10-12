@@ -1,1 +1,10 @@
+# lalala smieszne koty
+fileToIgnore
 
+*.class
+
+*.log
+
+*.ctxt
+
+*.mtj.tmp/
